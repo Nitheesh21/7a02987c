@@ -1,0 +1,34 @@
+{
+  "window": {
+    "delivery_start": "2026-01-01",
+    "delivery_end": "2026-01-31"
+  },
+  "actuals": {
+    "raw_rows": 1488,
+    "rows": 1488,
+    "expected_half_hours": 1488,
+    "missing_count": 0,
+    "missing_half_hours": []
+  },
+  "forecasts": {
+    "raw_rows": 21024,
+    "rows": 29014,
+    "publish_count": 264,
+    "publish_gap_hours": {
+      "min": 2.0,
+      "median": 3.0,
+      "max": 4.0
+    },
+    "max_horizon_h": 67.0,
+    "resolution_minutes": 60,
+    "expanded_to_half_hours": true,
+    "dropped_past_targets": 8354
+  },
+  "default_cutoff": "09:00",
+  "at_default_cutoff": {
+    "forecast_coverage": 1.0,
+    "mean_actual_mw": 11580.74,
+    "mean_forecast_mw": 13432.64,
+    "mean_error_mw": 1851.9
+  }
+}
