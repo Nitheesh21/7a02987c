@@ -140,7 +140,7 @@ Deployed as one Vercel project. The React app is served as static files and the 
 
 ## AI usage
 
-AI tools were used in this project. Claude (Anthropic) helped with planning, code scaffolding, tests and documentation. The author reviewed, ran and tested all code, and checked the analysis choices against the brief.
+AI tools were used in this project. Claude (Anthropic) helped with planning, some parts of code scaffolding, tests and documentation. The author (being the main contributor) reviewed, ran and tested all code, and checked the analysis choices against the brief.
 
 ## Data attribution
 
