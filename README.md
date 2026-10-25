@@ -7,7 +7,7 @@ A web app for a UK power buyer. It shows the latest national wind forecast that 
 
 ## Links
 
-- Live app: TODO (Vercel URL)
+- Live app: https://7a02987c.vercel.app
 - Demo video (unlisted): TODO (YouTube URL)
 
 ## What it does
